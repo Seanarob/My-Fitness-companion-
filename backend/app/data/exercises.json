@@ -1,0 +1,1395 @@
+[
+  {
+    "name": "Barbell Back Squat",
+    "primary_muscle": "quads",
+    "secondary_muscles": ["glutes", "hamstrings", "lower_back"],
+    "equipment": "barbell",
+    "movement_pattern": "squat",
+    "difficulty": "intermediate",
+    "notes": "Keep chest up, core braced, knees tracking over toes. Lower until thighs are parallel to floor or lower.",
+    "how_to_video_url": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "name": "Barbell Front Squat",
+    "primary_muscle": "quads",
+    "secondary_muscles": ["glutes", "abs", "shoulders"],
+    "equipment": "barbell",
+    "movement_pattern": "squat",
+    "difficulty": "intermediate",
+    "notes": "Barbell rests on front deltoids. Keep torso upright throughout movement."
+  },
+  {
+    "name": "Romanian Deadlift",
+    "primary_muscle": "hamstrings",
+    "secondary_muscles": ["glutes", "lower_back", "forearms"],
+    "equipment": "barbell",
+    "movement_pattern": "hinge",
+    "difficulty": "intermediate",
+    "notes": "Keep legs mostly straight. Hinge at hips, push hips back. Feel stretch in hamstrings."
+  },
+  {
+    "name": "Conventional Deadlift",
+    "primary_muscle": "lower_back",
+    "secondary_muscles": ["hamstrings", "glutes", "quads", "forearms", "traps"],
+    "equipment": "barbell",
+    "movement_pattern": "hinge",
+    "difficulty": "intermediate",
+    "notes": "Full body compound movement. Keep back straight, drive through heels.",
+    "how_to_video_url": "https://www.youtube.com/watch?v=op9kVnSso6Q"
+  },
+  {
+    "name": "Barbell Bench Press",
+    "primary_muscle": "chest",
+    "secondary_muscles": ["triceps", "shoulders"],
+    "equipment": "barbell",
+    "movement_pattern": "push",
+    "difficulty": "intermediate",
+    "notes": "Lower bar to chest, press up explosively. Keep feet on floor, maintain arch.",
+    "how_to_video_url": "https://www.youtube.com/watch?v=gRVjAtPip0Y"
+  },
+  {
+    "name": "Barbell Overhead Press",
+    "primary_muscle": "shoulders",
+    "secondary_muscles": ["triceps", "abs", "upper_back"],
+    "equipment": "barbell",
+    "movement_pattern": "push",
+    "difficulty": "intermediate",
+    "notes": "Press bar overhead, keep core tight. Full lockout at top."
+  },
+  {
+    "name": "Barbell Row",
+    "primary_muscle": "back",
+    "secondary_muscles": ["biceps", "shoulders", "forearms"],
+    "equipment": "barbell",
+    "movement_pattern": "pull",
+    "difficulty": "intermediate",
+    "notes": "Pull bar to lower chest/upper abs. Squeeze shoulder blades together."
+  },
+  {
+    "name": "Barbell Bicep Curl",
+    "primary_muscle": "biceps",
+    "secondary_muscles": ["forearms"],
+    "equipment": "barbell",
+    "movement_pattern": "isolation",
+    "difficulty": "beginner",
+    "notes": "Curl bar up, control on the way down. Keep elbows stationary."
+  },
+  {
+    "name": "Barbell Tricep Extension",
+    "primary_muscle": "triceps",
+    "secondary_muscles": [],
+    "equipment": "barbell",
+    "movement_pattern": "isolation",
+    "difficulty": "beginner",
+    "notes": "Lower bar behind head, extend overhead. Keep elbows in."
+  },
+  {
+    "name": "Barbell Calf Raise",
+    "primary_muscle": "calves",
+    "secondary_muscles": [],
+    "equipment": "barbell",
+    "movement_pattern": "isolation",
+    "difficulty": "beginner",
+    "notes": "Rise up on toes, hold peak contraction, lower slowly."
+  },
+  {
+    "name": "Dumbbell Bench Press",
+    "primary_muscle": "chest",
+    "secondary_muscles": ["triceps", "shoulders"],
+    "equipment": "dumbbell",
+    "movement_pattern": "push",
+    "difficulty": "beginner",
+    "notes": "Greater range of motion than barbell. Control the weight throughout."
+  },
+  {
+    "name": "Dumbbell Shoulder Press",
+    "primary_muscle": "shoulders",
+    "secondary_muscles": ["triceps", "abs"],
+    "equipment": "dumbbell",
+    "movement_pattern": "push",
+    "difficulty": "beginner",
+    "notes": "Press dumbbells overhead simultaneously or alternating."
+  },
+  {
+    "name": "Dumbbell Row",
+    "primary_muscle": "back",
+    "secondary_muscles": ["biceps", "shoulders"],
+    "equipment": "dumbbell",
+    "movement_pattern": "pull",
+    "difficulty": "beginner",
+    "notes": "One arm at a time. Pull elbow back, squeeze lat."
+  },
+  {
+    "name": "Dumbbell Bicep Curl",
+    "primary_muscle": "biceps",
+    "secondary_muscles": ["forearms"],
+    "equipment": "dumbbell",
+    "movement_pattern": "isolation",
+    "difficulty": "beginner",
+    "notes": "Can be done standing, seated, alternating, or simultaneously."
+  },
+  {
+    "name": "Dumbbell Tricep Extension",
+    "primary_muscle": "triceps",
+    "secondary_muscles": [],
+    "equipment": "dumbbell",
+    "movement_pattern": "isolation",
+    "difficulty": "beginner",
+    "notes": "Overhead extension. Keep elbows close to head."
+  },
+  {
+    "name": "Dumbbell Lateral Raise",
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [],
+    "equipment": "dumbbell",
+    "movement_pattern": "isolation",
+    "difficulty": "beginner",
+    "notes": "Raise arms to sides until parallel to floor. Control the descent."
+  },
+  {
+    "name": "Dumbbell Front Raise",
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [],
+    "equipment": "dumbbell",
+    "movement_pattern": "isolation",
+    "difficulty": "beginner",
+    "notes": "Raise dumbbell forward until arm is parallel to floor."
+  },
+  {
+    "name": "Dumbbell Goblet Squat",
+    "primary_muscle": "quads",
+    "secondary_muscles": ["glutes", "abs"],
+    "equipment": "dumbbell",
+    "movement_pattern": "squat",
+    "difficulty": "beginner",
+    "notes": "Hold one dumbbell at chest. Great for beginners to learn squat form."
+  },
+  {
+    "name": "Dumbbell Lunges",
+    "primary_muscle": "quads",
+    "secondary_muscles": ["glutes", "hamstrings"],
+    "equipment": "dumbbell",
+    "movement_pattern": "lunge",
+    "difficulty": "beginner",
+    "notes": "Step forward, lower back knee toward ground. Keep front knee over ankle."
+  },
+  {
+    "name": "Dumbbell Romanian Deadlift",
+    "primary_muscle": "hamstrings",
+    "secondary_muscles": ["glutes", "lower_back"],
+    "equipment": "dumbbell",
+    "movement_pattern": "hinge",
+    "difficulty": "beginner",
+    "notes": "Easier to learn than barbell version. Focus on hip hinge."
+  },
+  {
+    "name": "Dumbbell Calf Raise",
+    "primary_muscle": "calves",
+    "secondary_muscles": [],
+    "equipment": "dumbbell",
+    "movement_pattern": "isolation",
+    "difficulty": "beginner",
+    "notes": "Hold dumbbells at sides, rise up on toes."
+  },
+  {
+    "name": "Cable Chest Fly",
+    "primary_muscle": "chest",
+    "secondary_muscles": ["shoulders"],
+    "equipment": "cable",
+    "movement_pattern": "isolation",
+    "difficulty": "beginner",
+    "notes": "Constant tension. Bring handles together in front of chest."
+  },
+  {
+    "name": "Cable Crossover",
+    "primary_muscle": "chest",
+    "secondary_muscles": ["shoulders"],
+    "equipment": "cable",
+    "movement_pattern": "isolation",
+    "difficulty": "beginner",
+    "notes": "Similar to fly but crossing over in front."
+  },
+  {
+    "name": "Cable Lat Pulldown",
+    "primary_muscle": "back",
+    "secondary_muscles": ["biceps", "shoulders"],
+    "equipment": "cable",
+    "movement_pattern": "pull",
+    "difficulty": "beginner",
+    "notes": "Pull bar to upper chest. Lean back slightly, drive elbows down."
+  },
+  {
+    "name": "Cable Row",
+    "primary_muscle": "back",
+    "secondary_muscles": ["biceps", "shoulders"],
+    "equipment": "cable",
+    "movement_pattern": "pull",
+    "difficulty": "beginner",
+    "notes": "Pull handle to torso. Squeeze shoulder blades together."
+  },
+  {
+    "name": "Cable Bicep Curl",
+    "primary_muscle": "biceps",
+    "secondary_muscles": ["forearms"],
+    "equipment": "cable",
+    "movement_pattern": "isolation",
+    "difficulty": "beginner",
+    "notes": "Constant tension throughout movement. Great for pump."
+  },
+  {
+    "name": "Cable Tricep Pushdown",
+    "primary_muscle": "triceps",
+    "secondary_muscles": [],
+    "equipment": "cable",
+    "movement_pattern": "isolation",
+    "difficulty": "beginner",
+    "notes": "Push handle down, keep elbows at sides. Full extension at bottom."
+  },
+  {
+    "name": "Cable Lateral Raise",
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [],
+    "equipment": "cable",
+    "movement_pattern": "isolation",
+    "difficulty": "beginner",
+    "notes": "Constant tension. One arm at a time or with cable crossover setup."
+  },
+  {
+    "name": "Cable Woodchopper",
+    "primary_muscle": "obliques",
+    "secondary_muscles": ["abs", "shoulders"],
+    "equipment": "cable",
+    "movement_pattern": "rotation",
+    "difficulty": "intermediate",
+    "notes": "Pull cable across body in chopping motion. Great for core rotation."
+  },
+  {
+    "name": "Machine Chest Press",
+    "primary_muscle": "chest",
+    "secondary_muscles": ["triceps", "shoulders"],
+    "equipment": "machine",
+    "movement_pattern": "push",
+    "difficulty": "beginner",
+    "notes": "Guided movement, good for beginners. Focus on controlled reps."
+  },
+  {
+    "name": "Machine Shoulder Press",
+    "primary_muscle": "shoulders",
+    "secondary_muscles": ["triceps"],
+    "equipment": "machine",
+    "movement_pattern": "push",
+    "difficulty": "beginner",
+    "notes": "Seated machine press. Safer than free weights for beginners."
+  },
+  {
+    "name": "Machine Row",
+    "primary_muscle": "back",
+    "secondary_muscles": ["biceps", "shoulders"],
+    "equipment": "machine",
+    "movement_pattern": "pull",
+    "difficulty": "beginner",
+    "notes": "Seated row machine. Pull to torso, squeeze lats."
+  },
+  {
+    "name": "Machine Leg Press",
+    "primary_muscle": "quads",
+    "secondary_muscles": ["glutes", "hamstrings"],
+    "equipment": "machine",
+    "movement_pattern": "squat",
+    "difficulty": "beginner",
+    "notes": "Can handle heavy weight safely. Lower until knees at 90 degrees."
+  },
+  {
+    "name": "Machine Leg Extension",
+    "primary_muscle": "quads",
+    "secondary_muscles": [],
+    "equipment": "machine",
+    "movement_pattern": "isolation",
+    "difficulty": "beginner",
+    "notes": "Isolate quads. Control both up and down phases."
+  },
+  {
+    "name": "Machine Leg Curl",
+    "primary_muscle": "hamstrings",
+    "secondary_muscles": [],
+    "equipment": "machine",
+    "movement_pattern": "isolation",
+    "difficulty": "beginner",
+    "notes": "Can be lying or seated. Isolate hamstrings effectively."
+  },
+  {
+    "name": "Machine Calf Raise",
+    "primary_muscle": "calves",
+    "secondary_muscles": [],
+    "equipment": "machine",
+    "movement_pattern": "isolation",
+    "difficulty": "beginner",
+    "notes": "Seated or standing calf raise machine. Full range of motion."
+  },
+  {
+    "name": "Machine Hip Abduction",
+    "primary_muscle": "abductors",
+    "secondary_muscles": [],
+    "equipment": "machine",
+    "movement_pattern": "isolation",
+    "difficulty": "beginner",
+    "notes": "Push legs apart against resistance. Strengthen outer thighs."
+  },
+  {
+    "name": "Machine Hip Adduction",
+    "primary_muscle": "adductors",
+    "secondary_muscles": [],
+    "equipment": "machine",
+    "movement_pattern": "isolation",
+    "difficulty": "beginner",
+    "notes": "Bring legs together against resistance. Inner thigh strengthening."
+  },
+  {
+    "name": "Pull-ups",
+    "primary_muscle": "back",
+    "secondary_muscles": ["biceps", "shoulders", "abs"],
+    "equipment": "bodyweight",
+    "movement_pattern": "pull",
+    "difficulty": "intermediate",
+    "notes": "Pull body up until chin over bar. Full hang at bottom.",
+    "how_to_video_url": "https://www.youtube.com/watch?v=eGo4IYlbE5g"
+  },
+  {
+    "name": "Chin-ups",
+    "primary_muscle": "biceps",
+    "secondary_muscles": ["back", "shoulders"],
+    "equipment": "bodyweight",
+    "movement_pattern": "pull",
+    "difficulty": "intermediate",
+    "notes": "Underhand grip. More bicep emphasis than pull-ups."
+  },
+  {
+    "name": "Push-ups",
+    "primary_muscle": "chest",
+    "secondary_muscles": ["triceps", "shoulders", "abs"],
+    "equipment": "bodyweight",
+    "movement_pattern": "push",
+    "difficulty": "beginner",
+    "notes": "Keep body straight, lower until chest nearly touches ground.",
+    "how_to_video_url": "https://www.youtube.com/watch?v=IODxDxX7oi4"
+  },
+  {
+    "name": "Dips",
+    "primary_muscle": "triceps",
+    "secondary_muscles": ["chest", "shoulders"],
+    "equipment": "bodyweight",
+    "movement_pattern": "push",
+    "difficulty": "intermediate",
+    "notes": "Lower body by bending arms, push back up. Keep torso upright for tricep focus."
+  },
+  {
+    "name": "Bodyweight Squat",
+    "primary_muscle": "quads",
+    "secondary_muscles": ["glutes", "hamstrings"],
+    "equipment": "bodyweight",
+    "movement_pattern": "squat",
+    "difficulty": "beginner",
+    "notes": "Fundamental movement. Lower until thighs parallel to floor.",
+    "how_to_video_url": "https://www.youtube.com/watch?v=Dy28eq2PjcM"
+  },
+  {
+    "name": "Walking Lunges",
+    "primary_muscle": "quads",
+    "secondary_muscles": ["glutes", "hamstrings"],
+    "equipment": "bodyweight",
+    "movement_pattern": "lunge",
+    "difficulty": "beginner",
+    "notes": "Step forward into lunge, push off front foot, repeat with other leg."
+  },
+  {
+    "name": "Bulgarian Split Squat",
+    "primary_muscle": "quads",
+    "secondary_muscles": ["glutes", "hamstrings"],
+    "equipment": "bodyweight",
+    "movement_pattern": "lunge",
+    "difficulty": "intermediate",
+    "notes": "Rear foot elevated. Great unilateral leg exercise."
+  },
+  {
+    "name": "Glute Bridge",
+    "primary_muscle": "glutes",
+    "secondary_muscles": ["hamstrings", "lower_back"],
+    "equipment": "bodyweight",
+    "movement_pattern": "hinge",
+    "difficulty": "beginner",
+    "notes": "Lie on back, lift hips by squeezing glutes. Hold at top."
+  },
+  {
+    "name": "Single Leg Glute Bridge",
+    "primary_muscle": "glutes",
+    "secondary_muscles": ["hamstrings"],
+    "equipment": "bodyweight",
+    "movement_pattern": "hinge",
+    "difficulty": "intermediate",
+    "notes": "One leg extended. More challenging version of glute bridge."
+  },
+  {
+    "name": "Plank",
+    "primary_muscle": "abs",
+    "secondary_muscles": ["shoulders", "lower_back"],
+    "equipment": "bodyweight",
+    "movement_pattern": "isolation",
+    "difficulty": "beginner",
+    "notes": "Hold straight body position. Keep core tight, don't sag.",
+    "how_to_video_url": "https://www.youtube.com/watch?v=pSHjTRCQxIw"
+  },
+  {
+    "name": "Side Plank",
+    "primary_muscle": "obliques",
+    "secondary_muscles": ["shoulders", "abs"],
+    "equipment": "bodyweight",
+    "movement_pattern": "isolation",
+    "difficulty": "beginner",
+    "notes": "Hold body in straight line on side. Great for obliques."
+  },
+  {
+    "name": "Crunch",
+    "primary_muscle": "abs",
+    "secondary_muscles": [],
+    "equipment": "bodyweight",
+    "movement_pattern": "isolation",
+    "difficulty": "beginner",
+    "notes": "Lift shoulders off ground, crunch abs. Don't pull on neck."
+  },
+  {
+    "name": "Russian Twist",
+    "primary_muscle": "obliques",
+    "secondary_muscles": ["abs"],
+    "equipment": "bodyweight",
+    "movement_pattern": "rotation",
+    "difficulty": "beginner",
+    "notes": "Rotate torso side to side. Can add weight for difficulty."
+  },
+  {
+    "name": "Mountain Climbers",
+    "primary_muscle": "abs",
+    "secondary_muscles": ["shoulders", "quads"],
+    "equipment": "bodyweight",
+    "movement_pattern": "isolation",
+    "difficulty": "beginner",
+    "notes": "Alternate bringing knees to chest. Great cardio and core."
+  },
+  {
+    "name": "Burpee",
+    "primary_muscle": "full_body",
+    "secondary_muscles": [],
+    "equipment": "bodyweight",
+    "movement_pattern": "full_body",
+    "difficulty": "intermediate",
+    "notes": "Squat, plank, push-up, jump. Full body conditioning."
+  },
+  {
+    "name": "Jump Squat",
+    "primary_muscle": "quads",
+    "secondary_muscles": ["glutes", "calves"],
+    "equipment": "bodyweight",
+    "movement_pattern": "squat",
+    "difficulty": "beginner",
+    "notes": "Explosive squat with jump at top. Plyometric movement."
+  },
+  {
+    "name": "Calf Raise (Bodyweight)",
+    "primary_muscle": "calves",
+    "secondary_muscles": [],
+    "equipment": "bodyweight",
+    "movement_pattern": "isolation",
+    "difficulty": "beginner",
+    "notes": "Rise up on toes. Can do on floor or edge of step for greater range."
+  },
+  {
+    "name": "Hip Thrust",
+    "primary_muscle": "glutes",
+    "secondary_muscles": ["hamstrings"],
+    "equipment": "bodyweight",
+    "movement_pattern": "hinge",
+    "difficulty": "beginner",
+    "notes": "Upper back on bench, drive hips up. Squeeze glutes at top."
+  },
+  {
+    "name": "Kettlebell Swing",
+    "primary_muscle": "glutes",
+    "secondary_muscles": ["hamstrings", "shoulders", "abs"],
+    "equipment": "kettlebell",
+    "movement_pattern": "hinge",
+    "difficulty": "intermediate",
+    "notes": "Hip hinge movement, swing KB to chest height. Not a squat."
+  },
+  {
+    "name": "Kettlebell Goblet Squat",
+    "primary_muscle": "quads",
+    "secondary_muscles": ["glutes", "abs"],
+    "equipment": "kettlebell",
+    "movement_pattern": "squat",
+    "difficulty": "beginner",
+    "notes": "Hold KB at chest. Great for learning squat form."
+  },
+  {
+    "name": "Kettlebell Turkish Get-Up",
+    "primary_muscle": "full_body",
+    "secondary_muscles": [],
+    "equipment": "kettlebell",
+    "movement_pattern": "full_body",
+    "difficulty": "advanced",
+    "notes": "Complex movement. Stand up while holding KB overhead. Full body stability."
+  },
+  {
+    "name": "Kettlebell Snatch",
+    "primary_muscle": "shoulders",
+    "secondary_muscles": ["glutes", "hamstrings", "abs"],
+    "equipment": "kettlebell",
+    "movement_pattern": "full_body",
+    "difficulty": "advanced",
+    "notes": "Explosive movement. Swing KB overhead in one motion."
+  },
+  {
+    "name": "Kettlebell Row",
+    "primary_muscle": "back",
+    "secondary_muscles": ["biceps", "shoulders"],
+    "equipment": "kettlebell",
+    "movement_pattern": "pull",
+    "difficulty": "beginner",
+    "notes": "Bent over row with KB. Great unilateral work."
+  },
+  {
+    "name": "Resistance Band Pull-Apart",
+    "primary_muscle": "shoulders",
+    "secondary_muscles": ["back"],
+    "equipment": "resistance_band",
+    "movement_pattern": "pull",
+    "difficulty": "beginner",
+    "notes": "Pull band apart at chest level. Great for rear delts and posture."
+  },
+  {
+    "name": "Resistance Band Bicep Curl",
+    "primary_muscle": "biceps",
+    "secondary_muscles": ["forearms"],
+    "equipment": "resistance_band",
+    "movement_pattern": "isolation",
+    "difficulty": "beginner",
+    "notes": "Stand on band, curl handles up. Portable and versatile."
+  },
+  {
+    "name": "Resistance Band Chest Press",
+    "primary_muscle": "chest",
+    "secondary_muscles": ["triceps", "shoulders"],
+    "equipment": "resistance_band",
+    "movement_pattern": "push",
+    "difficulty": "beginner",
+    "notes": "Anchor band behind you, press forward. Great for home workouts."
+  },
+  {
+    "name": "Resistance Band Lateral Raise",
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [],
+    "equipment": "resistance_band",
+    "movement_pattern": "isolation",
+    "difficulty": "beginner",
+    "notes": "Stand on band, raise handles to sides. Constant tension."
+  },
+  {
+    "name": "Resistance Band Squat",
+    "primary_muscle": "quads",
+    "secondary_muscles": ["glutes"],
+    "equipment": "resistance_band",
+    "movement_pattern": "squat",
+    "difficulty": "beginner",
+    "notes": "Band around legs or under feet. Adds resistance to bodyweight squat."
+  },
+  {
+    "name": "Resistance Band Glute Bridge",
+    "primary_muscle": "glutes",
+    "secondary_muscles": ["hamstrings"],
+    "equipment": "resistance_band",
+    "movement_pattern": "hinge",
+    "difficulty": "beginner",
+    "notes": "Band around legs above knees. Push knees out while bridging."
+  },
+  {
+    "name": "Medicine Ball Slam",
+    "primary_muscle": "abs",
+    "secondary_muscles": ["shoulders", "back"],
+    "equipment": "medicine_ball",
+    "movement_pattern": "rotation",
+    "difficulty": "intermediate",
+    "notes": "Lift ball overhead, slam down explosively. Great for power and core."
+  },
+  {
+    "name": "Medicine Ball Russian Twist",
+    "primary_muscle": "obliques",
+    "secondary_muscles": ["abs"],
+    "equipment": "medicine_ball",
+    "movement_pattern": "rotation",
+    "difficulty": "beginner",
+    "notes": "Hold MB, rotate side to side. More challenging than bodyweight version."
+  },
+  {
+    "name": "Medicine Ball Wall Ball",
+    "primary_muscle": "shoulders",
+    "secondary_muscles": ["quads", "glutes", "abs"],
+    "equipment": "medicine_ball",
+    "movement_pattern": "full_body",
+    "difficulty": "intermediate",
+    "notes": "Squat with MB, throw to wall target. Full body power movement."
+  },
+  {
+    "name": "Incline Dumbbell Press",
+    "primary_muscle": "chest",
+    "secondary_muscles": ["triceps", "shoulders"],
+    "equipment": "dumbbell",
+    "movement_pattern": "push",
+    "difficulty": "intermediate",
+    "notes": "Bench at 30-45 degree angle. Targets upper chest."
+  },
+  {
+    "name": "Decline Dumbbell Press",
+    "primary_muscle": "chest",
+    "secondary_muscles": ["triceps", "shoulders"],
+    "equipment": "dumbbell",
+    "movement_pattern": "push",
+    "difficulty": "intermediate",
+    "notes": "Bench declined. Targets lower chest."
+  },
+  {
+    "name": "Dumbbell Fly",
+    "primary_muscle": "chest",
+    "secondary_muscles": ["shoulders"],
+    "equipment": "dumbbell",
+    "movement_pattern": "isolation",
+    "difficulty": "beginner",
+    "notes": "Open arms wide, bring together over chest. Can be flat, incline, or decline."
+  },
+  {
+    "name": "Dumbbell Pullover",
+    "primary_muscle": "chest",
+    "secondary_muscles": ["lats", "triceps"],
+    "equipment": "dumbbell",
+    "movement_pattern": "pull",
+    "difficulty": "intermediate",
+    "notes": "Lie across bench, lower DB behind head, pull over chest."
+  },
+  {
+    "name": "Dumbbell Shrug",
+    "primary_muscle": "traps",
+    "secondary_muscles": [],
+    "equipment": "dumbbell",
+    "movement_pattern": "isolation",
+    "difficulty": "beginner",
+    "notes": "Lift shoulders straight up. Hold at top, lower slowly."
+  },
+  {
+    "name": "Dumbbell Hammer Curl",
+    "primary_muscle": "biceps",
+    "secondary_muscles": ["forearms"],
+    "equipment": "dumbbell",
+    "movement_pattern": "isolation",
+    "difficulty": "beginner",
+    "notes": "Neutral grip. Targets brachialis, builds thicker arms."
+  },
+  {
+    "name": "Dumbbell Concentration Curl",
+    "primary_muscle": "biceps",
+    "secondary_muscles": [],
+    "equipment": "dumbbell",
+    "movement_pattern": "isolation",
+    "difficulty": "beginner",
+    "notes": "Seated, elbow on thigh. Isolates bicep effectively."
+  },
+  {
+    "name": "Dumbbell Tricep Kickback",
+    "primary_muscle": "triceps",
+    "secondary_muscles": [],
+    "equipment": "dumbbell",
+    "movement_pattern": "isolation",
+    "difficulty": "beginner",
+    "notes": "Bent over, extend arm back. Isolate tricep."
+  },
+  {
+    "name": "Dumbbell Overhead Tricep Extension",
+    "primary_muscle": "triceps",
+    "secondary_muscles": [],
+    "equipment": "dumbbell",
+    "movement_pattern": "isolation",
+    "difficulty": "beginner",
+    "notes": "Hold DB overhead, lower behind head, extend up."
+  },
+  {
+    "name": "Dumbbell Rear Delt Fly",
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [],
+    "equipment": "dumbbell",
+    "movement_pattern": "isolation",
+    "difficulty": "beginner",
+    "notes": "Bent over, raise arms to sides. Targets rear delts."
+  },
+  {
+    "name": "Dumbbell Arnold Press",
+    "primary_muscle": "shoulders",
+    "secondary_muscles": ["triceps"],
+    "equipment": "dumbbell",
+    "movement_pattern": "push",
+    "difficulty": "intermediate",
+    "notes": "Start with palms facing you, rotate and press overhead."
+  },
+  {
+    "name": "Dumbbell Upright Row",
+    "primary_muscle": "shoulders",
+    "secondary_muscles": ["traps"],
+    "equipment": "dumbbell",
+    "movement_pattern": "pull",
+    "difficulty": "beginner",
+    "notes": "Pull DBs up to chest level. Keep close to body."
+  },
+  {
+    "name": "Dumbbell Step-Up",
+    "primary_muscle": "quads",
+    "secondary_muscles": ["glutes", "hamstrings"],
+    "equipment": "dumbbell",
+    "movement_pattern": "lunge",
+    "difficulty": "intermediate",
+    "notes": "Step up onto bench/box while holding DBs. Drive through heel."
+  },
+  {
+    "name": "Dumbbell Bulgarian Split Squat",
+    "primary_muscle": "quads",
+    "secondary_muscles": ["glutes", "hamstrings"],
+    "equipment": "dumbbell",
+    "movement_pattern": "lunge",
+    "difficulty": "intermediate",
+    "notes": "Rear foot elevated, holding DBs. Excellent unilateral leg work."
+  },
+  {
+    "name": "Dumbbell Sumo Squat",
+    "primary_muscle": "quads",
+    "secondary_muscles": ["glutes", "adductors"],
+    "equipment": "dumbbell",
+    "movement_pattern": "squat",
+    "difficulty": "beginner",
+    "notes": "Wide stance, toes pointed out. Hold one DB between legs."
+  },
+  {
+    "name": "Dumbbell Good Morning",
+    "primary_muscle": "hamstrings",
+    "secondary_muscles": ["glutes", "lower_back"],
+    "equipment": "dumbbell",
+    "movement_pattern": "hinge",
+    "difficulty": "intermediate",
+    "notes": "DB behind neck, hinge at hips. Keep back straight."
+  },
+  {
+    "name": "Dumbbell Stiff Leg Deadlift",
+    "primary_muscle": "hamstrings",
+    "secondary_muscles": ["glutes", "lower_back"],
+    "equipment": "dumbbell",
+    "movement_pattern": "hinge",
+    "difficulty": "intermediate",
+    "notes": "Keep legs straight, hinge at hips. Feel hamstring stretch."
+  },
+  {
+    "name": "Dumbbell Farmer's Walk",
+    "primary_muscle": "forearms",
+    "secondary_muscles": ["traps", "abs", "quads"],
+    "equipment": "dumbbell",
+    "movement_pattern": "carry",
+    "difficulty": "beginner",
+    "notes": "Carry heavy DBs while walking. Great for grip and core."
+  },
+  {
+    "name": "Dumbbell Wrist Curl",
+    "primary_muscle": "forearms",
+    "secondary_muscles": [],
+    "equipment": "dumbbell",
+    "movement_pattern": "isolation",
+    "difficulty": "beginner",
+    "notes": "Forearms on bench, curl wrists up. Strengthen forearms."
+  },
+  {
+    "name": "Dumbbell Reverse Wrist Curl",
+    "primary_muscle": "forearms",
+    "secondary_muscles": [],
+    "equipment": "dumbbell",
+    "movement_pattern": "isolation",
+    "difficulty": "beginner",
+    "notes": "Reverse grip, curl wrists up. Target extensors."
+  },
+  {
+    "name": "Barbell Overhead Squat",
+    "primary_muscle": "quads",
+    "secondary_muscles": ["shoulders", "abs", "glutes"],
+    "equipment": "barbell",
+    "movement_pattern": "squat",
+    "difficulty": "advanced",
+    "notes": "Barbell overhead while squatting. Requires mobility and stability."
+  },
+  {
+    "name": "Barbell Hack Squat",
+    "primary_muscle": "quads",
+    "secondary_muscles": ["glutes"],
+    "equipment": "barbell",
+    "movement_pattern": "squat",
+    "difficulty": "advanced",
+    "notes": "Barbell behind legs. Unique quad-focused squat variation."
+  },
+  {
+    "name": "Barbell Sumo Deadlift",
+    "primary_muscle": "glutes",
+    "secondary_muscles": ["quads", "hamstrings", "adductors"],
+    "equipment": "barbell",
+    "movement_pattern": "hinge",
+    "difficulty": "intermediate",
+    "notes": "Wide stance deadlift. More glute and adductor emphasis."
+  },
+  {
+    "name": "Barbell Hip Thrust",
+    "primary_muscle": "glutes",
+    "secondary_muscles": ["hamstrings"],
+    "equipment": "barbell",
+    "movement_pattern": "hinge",
+    "difficulty": "intermediate",
+    "notes": "Upper back on bench, bar across hips. Drive hips up. Best glute builder."
+  },
+  {
+    "name": "Barbell Good Morning",
+    "primary_muscle": "hamstrings",
+    "secondary_muscles": ["glutes", "lower_back"],
+    "equipment": "barbell",
+    "movement_pattern": "hinge",
+    "difficulty": "advanced",
+    "notes": "Barbell on upper back, hinge at hips. Keep back straight."
+  },
+  {
+    "name": "Barbell Incline Bench Press",
+    "primary_muscle": "chest",
+    "secondary_muscles": ["triceps", "shoulders"],
+    "equipment": "barbell",
+    "movement_pattern": "push",
+    "difficulty": "intermediate",
+    "notes": "Bench at 30-45 degrees. Targets upper chest."
+  },
+  {
+    "name": "Barbell Decline Bench Press",
+    "primary_muscle": "chest",
+    "secondary_muscles": ["triceps", "shoulders"],
+    "equipment": "barbell",
+    "movement_pattern": "push",
+    "difficulty": "intermediate",
+    "notes": "Bench declined. Targets lower chest."
+  },
+  {
+    "name": "Barbell Close Grip Bench Press",
+    "primary_muscle": "triceps",
+    "secondary_muscles": ["chest", "shoulders"],
+    "equipment": "barbell",
+    "movement_pattern": "push",
+    "difficulty": "intermediate",
+    "notes": "Hands shoulder-width apart. Excellent tricep builder."
+  },
+  {
+    "name": "Barbell Upright Row",
+    "primary_muscle": "shoulders",
+    "secondary_muscles": ["traps"],
+    "equipment": "barbell",
+    "movement_pattern": "pull",
+    "difficulty": "beginner",
+    "notes": "Pull bar to upper chest. Keep close to body."
+  },
+  {
+    "name": "Barbell Shrug",
+    "primary_muscle": "traps",
+    "secondary_muscles": [],
+    "equipment": "barbell",
+    "movement_pattern": "isolation",
+    "difficulty": "beginner",
+    "notes": "Lift shoulders straight up. Hold peak contraction."
+  },
+  {
+    "name": "Barbell Reverse Curl",
+    "primary_muscle": "forearms",
+    "secondary_muscles": ["biceps"],
+    "equipment": "barbell",
+    "movement_pattern": "isolation",
+    "difficulty": "beginner",
+    "notes": "Overhand grip curl. Targets forearms and brachialis."
+  },
+  {
+    "name": "Barbell Wrist Curl",
+    "primary_muscle": "forearms",
+    "secondary_muscles": [],
+    "equipment": "barbell",
+    "movement_pattern": "isolation",
+    "difficulty": "beginner",
+    "notes": "Forearms on bench, curl wrists. Strengthen forearms."
+  },
+  {
+    "name": "Cable Face Pull",
+    "primary_muscle": "shoulders",
+    "secondary_muscles": ["back"],
+    "equipment": "cable",
+    "movement_pattern": "pull",
+    "difficulty": "beginner",
+    "notes": "Pull cable to face level, external rotation. Great for rear delts and posture."
+  },
+  {
+    "name": "Cable Upright Row",
+    "primary_muscle": "shoulders",
+    "secondary_muscles": ["traps"],
+    "equipment": "cable",
+    "movement_pattern": "pull",
+    "difficulty": "beginner",
+    "notes": "Constant tension upright row. Smooth movement."
+  },
+  {
+    "name": "Cable Rear Delt Fly",
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [],
+    "equipment": "cable",
+    "movement_pattern": "isolation",
+    "difficulty": "beginner",
+    "notes": "Bent over, pull cables to sides. Isolate rear delts."
+  },
+  {
+    "name": "Cable Hammer Curl",
+    "primary_muscle": "biceps",
+    "secondary_muscles": ["forearms"],
+    "equipment": "cable",
+    "movement_pattern": "isolation",
+    "difficulty": "beginner",
+    "notes": "Neutral grip curl with cable. Constant tension."
+  },
+  {
+    "name": "Cable Overhead Tricep Extension",
+    "primary_muscle": "triceps",
+    "secondary_muscles": [],
+    "equipment": "cable",
+    "movement_pattern": "isolation",
+    "difficulty": "beginner",
+    "notes": "Rope attachment overhead. Full tricep extension."
+  },
+  {
+    "name": "Cable Crunch",
+    "primary_muscle": "abs",
+    "secondary_muscles": [],
+    "equipment": "cable",
+    "movement_pattern": "isolation",
+    "difficulty": "beginner",
+    "notes": "Kneel, pull cable down while crunching. Add resistance to abs."
+  },
+  {
+    "name": "Cable Oblique Crunch",
+    "primary_muscle": "obliques",
+    "secondary_muscles": ["abs"],
+    "equipment": "cable",
+    "movement_pattern": "rotation",
+    "difficulty": "beginner",
+    "notes": "Side crunch with cable. Target obliques with resistance."
+  },
+  {
+    "name": "Cable Leg Extension",
+    "primary_muscle": "quads",
+    "secondary_muscles": [],
+    "equipment": "cable",
+    "movement_pattern": "isolation",
+    "difficulty": "beginner",
+    "notes": "Sit, extend leg against cable resistance. Isolate quads."
+  },
+  {
+    "name": "Cable Leg Curl",
+    "primary_muscle": "hamstrings",
+    "secondary_muscles": [],
+    "equipment": "cable",
+    "movement_pattern": "isolation",
+    "difficulty": "beginner",
+    "notes": "Stand or lie, curl heel to glutes against cable."
+  },
+  {
+    "name": "Cable Calf Raise",
+    "primary_muscle": "calves",
+    "secondary_muscles": [],
+    "equipment": "cable",
+    "movement_pattern": "isolation",
+    "difficulty": "beginner",
+    "notes": "Rise up on toes with cable resistance. Constant tension."
+  },
+  {
+    "name": "Machine Pec Deck",
+    "primary_muscle": "chest",
+    "secondary_muscles": ["shoulders"],
+    "equipment": "machine",
+    "movement_pattern": "isolation",
+    "difficulty": "beginner",
+    "notes": "Fly machine. Bring arms together, squeeze chest."
+  },
+  {
+    "name": "Machine Reverse Pec Deck",
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [],
+    "equipment": "machine",
+    "movement_pattern": "isolation",
+    "difficulty": "beginner",
+    "notes": "Reverse fly machine. Target rear delts."
+  },
+  {
+    "name": "Machine Preacher Curl",
+    "primary_muscle": "biceps",
+    "secondary_muscles": [],
+    "equipment": "machine",
+    "movement_pattern": "isolation",
+    "difficulty": "beginner",
+    "notes": "Preacher bench machine. Isolate biceps effectively."
+  },
+  {
+    "name": "Machine Tricep Dip",
+    "primary_muscle": "triceps",
+    "secondary_muscles": ["chest", "shoulders"],
+    "equipment": "machine",
+    "movement_pattern": "push",
+    "difficulty": "beginner",
+    "notes": "Assisted dip machine. Great for building up to bodyweight dips."
+  },
+  {
+    "name": "Machine Hack Squat",
+    "primary_muscle": "quads",
+    "secondary_muscles": ["glutes"],
+    "equipment": "machine",
+    "movement_pattern": "squat",
+    "difficulty": "intermediate",
+    "notes": "Guided squat machine. Can handle very heavy weight safely."
+  },
+  {
+    "name": "Machine Sled Leg Press",
+    "primary_muscle": "quads",
+    "secondary_muscles": ["glutes", "hamstrings"],
+    "equipment": "machine",
+    "movement_pattern": "squat",
+    "difficulty": "beginner",
+    "notes": "45-degree leg press. Safer than free weight squats for heavy loads."
+  },
+  {
+    "name": "Machine Glute Kickback",
+    "primary_muscle": "glutes",
+    "secondary_muscles": [],
+    "equipment": "machine",
+    "movement_pattern": "isolation",
+    "difficulty": "beginner",
+    "notes": "Kick leg back against resistance. Isolate glutes."
+  },
+  {
+    "name": "Pistol Squat",
+    "primary_muscle": "quads",
+    "secondary_muscles": ["glutes", "abs", "calves"],
+    "equipment": "bodyweight",
+    "movement_pattern": "squat",
+    "difficulty": "advanced",
+    "notes": "Single leg squat. Requires strength, balance, and mobility."
+  },
+  {
+    "name": "Handstand Push-up",
+    "primary_muscle": "shoulders",
+    "secondary_muscles": ["triceps", "abs"],
+    "equipment": "bodyweight",
+    "movement_pattern": "push",
+    "difficulty": "advanced",
+    "notes": "Push-up in handstand position. Extremely challenging."
+  },
+  {
+    "name": "Muscle-up",
+    "primary_muscle": "back",
+    "secondary_muscles": ["biceps", "shoulders", "abs"],
+    "equipment": "bodyweight",
+    "movement_pattern": "pull",
+    "difficulty": "advanced",
+    "notes": "Pull-up transitioning to dip. Requires significant strength."
+  },
+  {
+    "name": "Hanging Leg Raise",
+    "primary_muscle": "abs",
+    "secondary_muscles": ["hip_flexors"],
+    "equipment": "bodyweight",
+    "movement_pattern": "isolation",
+    "difficulty": "intermediate",
+    "notes": "Hang from bar, raise legs. Great for lower abs."
+  },
+  {
+    "name": "L-sit",
+    "primary_muscle": "abs",
+    "secondary_muscles": ["hip_flexors", "triceps", "shoulders"],
+    "equipment": "bodyweight",
+    "movement_pattern": "isolation",
+    "difficulty": "advanced",
+    "notes": "Hold body in L shape. Requires core and hip flexor strength."
+  },
+  {
+    "name": "Dragon Flag",
+    "primary_muscle": "abs",
+    "secondary_muscles": ["hip_flexors"],
+    "equipment": "bodyweight",
+    "movement_pattern": "isolation",
+    "difficulty": "advanced",
+    "notes": "Hold body straight, lower and raise. Extremely challenging core exercise."
+  },
+  {
+    "name": "Single Leg Calf Raise",
+    "primary_muscle": "calves",
+    "secondary_muscles": [],
+    "equipment": "bodyweight",
+    "movement_pattern": "isolation",
+    "difficulty": "beginner",
+    "notes": "One leg at a time. Unilateral calf work."
+  },
+  {
+    "name": "Wall Sit",
+    "primary_muscle": "quads",
+    "secondary_muscles": ["glutes"],
+    "equipment": "bodyweight",
+    "movement_pattern": "squat",
+    "difficulty": "intermediate",
+    "notes": "Hold squat position against wall. Isometric quad builder."
+  },
+  {
+    "name": "Single Leg Hip Thrust",
+    "primary_muscle": "glutes",
+    "secondary_muscles": ["hamstrings"],
+    "equipment": "bodyweight",
+    "movement_pattern": "hinge",
+    "difficulty": "intermediate",
+    "notes": "One leg extended. Challenging unilateral glute work."
+  },
+  {
+    "name": "Nordic Curl",
+    "primary_muscle": "hamstrings",
+    "secondary_muscles": ["glutes", "calves"],
+    "equipment": "bodyweight",
+    "movement_pattern": "hinge",
+    "difficulty": "advanced",
+    "notes": "Knees anchored, lower body forward. Eccentric hamstring strength."
+  },
+  {
+    "name": "Single Arm Farmer's Walk",
+    "primary_muscle": "forearms",
+    "secondary_muscles": ["abs", "obliques", "traps"],
+    "equipment": "dumbbell",
+    "movement_pattern": "carry",
+    "difficulty": "intermediate",
+    "notes": "Carry one heavy DB. Challenges core stability and grip unilaterally."
+  },
+  {
+    "name": "Single Arm Overhead Carry",
+    "primary_muscle": "shoulders",
+    "secondary_muscles": ["abs", "obliques", "forearms"],
+    "equipment": "dumbbell",
+    "movement_pattern": "carry",
+    "difficulty": "intermediate",
+    "notes": "Carry DB overhead while walking. Stability and shoulder strength."
+  },
+  {
+    "name": "Dumbbell Suitcase Carry",
+    "primary_muscle": "abs",
+    "secondary_muscles": ["obliques", "forearms"],
+    "equipment": "dumbbell",
+    "movement_pattern": "carry",
+    "difficulty": "intermediate",
+    "notes": "Carry DB at side. Challenges core anti-lateral flexion."
+  },
+  {
+    "name": "Kettlebell Farmer's Walk",
+    "primary_muscle": "forearms",
+    "secondary_muscles": ["traps", "abs", "quads"],
+    "equipment": "kettlebell",
+    "movement_pattern": "carry",
+    "difficulty": "beginner",
+    "notes": "Carry KBs while walking. Grip and core strength."
+  },
+  {
+    "name": "Kettlebell Rack Carry",
+    "primary_muscle": "shoulders",
+    "secondary_muscles": ["abs", "forearms"],
+    "equipment": "kettlebell",
+    "movement_pattern": "carry",
+    "difficulty": "intermediate",
+    "notes": "Hold KBs in rack position. Shoulder and core stability."
+  },
+  {
+    "name": "Barbell Farmer's Walk",
+    "primary_muscle": "forearms",
+    "secondary_muscles": ["traps", "abs", "quads"],
+    "equipment": "barbell",
+    "movement_pattern": "carry",
+    "difficulty": "intermediate",
+    "notes": "Carry heavy barbells. Ultimate grip and core challenge."
+  },
+  {
+    "name": "Wide Grip Pull-up",
+    "primary_muscle": "back",
+    "secondary_muscles": ["biceps", "shoulders"],
+    "equipment": "bodyweight",
+    "movement_pattern": "pull",
+    "difficulty": "advanced",
+    "notes": "Wider than shoulder width grip. More lat emphasis."
+  },
+  {
+    "name": "Close Grip Pull-up",
+    "primary_muscle": "biceps",
+    "secondary_muscles": ["back", "shoulders"],
+    "equipment": "bodyweight",
+    "movement_pattern": "pull",
+    "difficulty": "intermediate",
+    "notes": "Hands close together. More bicep emphasis."
+  },
+  {
+    "name": "Archer Pull-up",
+    "primary_muscle": "back",
+    "secondary_muscles": ["biceps", "shoulders", "abs"],
+    "equipment": "bodyweight",
+    "movement_pattern": "pull",
+    "difficulty": "advanced",
+    "notes": "Pull to one side, other arm extended. Advanced unilateral pull-up."
+  },
+  {
+    "name": "Diamond Push-up",
+    "primary_muscle": "triceps",
+    "secondary_muscles": ["chest", "shoulders"],
+    "equipment": "bodyweight",
+    "movement_pattern": "push",
+    "difficulty": "intermediate",
+    "notes": "Hands form diamond shape. More tricep emphasis than regular push-up."
+  },
+  {
+    "name": "Archer Push-up",
+    "primary_muscle": "chest",
+    "secondary_muscles": ["triceps", "shoulders", "abs"],
+    "equipment": "bodyweight",
+    "movement_pattern": "push",
+    "difficulty": "advanced",
+    "notes": "Push to one side, other arm extended. Advanced unilateral push-up."
+  },
+  {
+    "name": "Pike Push-up",
+    "primary_muscle": "shoulders",
+    "secondary_muscles": ["triceps", "abs"],
+    "equipment": "bodyweight",
+    "movement_pattern": "push",
+    "difficulty": "intermediate",
+    "notes": "Feet elevated or pike position. Targets shoulders like overhead press."
+  },
+  {
+    "name": "Incline Push-up",
+    "primary_muscle": "chest",
+    "secondary_muscles": ["triceps", "shoulders"],
+    "equipment": "bodyweight",
+    "movement_pattern": "push",
+    "difficulty": "beginner",
+    "notes": "Hands on elevated surface. Easier than floor push-ups, good progression."
+  },
+  {
+    "name": "Decline Push-up",
+    "primary_muscle": "chest",
+    "secondary_muscles": ["triceps", "shoulders"],
+    "equipment": "bodyweight",
+    "movement_pattern": "push",
+    "difficulty": "intermediate",
+    "notes": "Feet elevated. More challenging, targets upper chest more."
+  },
+  {
+    "name": "Single Leg Glute Bridge Hold",
+    "primary_muscle": "glutes",
+    "secondary_muscles": ["hamstrings"],
+    "equipment": "bodyweight",
+    "movement_pattern": "hinge",
+    "difficulty": "intermediate",
+    "notes": "Hold glute bridge position with one leg. Isometric glute strength."
+  },
+  {
+    "name": "Reverse Lunge",
+    "primary_muscle": "quads",
+    "secondary_muscles": ["glutes", "hamstrings"],
+    "equipment": "bodyweight",
+    "movement_pattern": "lunge",
+    "difficulty": "beginner",
+    "notes": "Step backward into lunge. Easier on knees than forward lunge."
+  },
+  {
+    "name": "Lateral Lunge",
+    "primary_muscle": "quads",
+    "secondary_muscles": ["glutes", "adductors"],
+    "equipment": "bodyweight",
+    "movement_pattern": "lunge",
+    "difficulty": "beginner",
+    "notes": "Step to side into lunge. Targets adductors and inner thighs."
+  },
+  {
+    "name": "Reverse Crunch",
+    "primary_muscle": "abs",
+    "secondary_muscles": [],
+    "equipment": "bodyweight",
+    "movement_pattern": "isolation",
+    "difficulty": "beginner",
+    "notes": "Lift knees to chest. Targets lower abs."
+  },
+  {
+    "name": "Bicycle Crunch",
+    "primary_muscle": "obliques",
+    "secondary_muscles": ["abs"],
+    "equipment": "bodyweight",
+    "movement_pattern": "rotation",
+    "difficulty": "beginner",
+    "notes": "Alternate bringing elbow to opposite knee. Great for obliques."
+  },
+  {
+    "name": "Dead Bug",
+    "primary_muscle": "abs",
+    "secondary_muscles": [],
+    "equipment": "bodyweight",
+    "movement_pattern": "isolation",
+    "difficulty": "beginner",
+    "notes": "Lie on back, extend opposite arm and leg. Core stability."
+  },
+  {
+    "name": "Bird Dog",
+    "primary_muscle": "abs",
+    "secondary_muscles": ["lower_back", "glutes"],
+    "equipment": "bodyweight",
+    "movement_pattern": "isolation",
+    "difficulty": "beginner",
+    "notes": "On hands and knees, extend opposite arm and leg. Core and glute stability."
+  },
+  {
+    "name": "Superman",
+    "primary_muscle": "lower_back",
+    "secondary_muscles": ["glutes"],
+    "equipment": "bodyweight",
+    "movement_pattern": "isolation",
+    "difficulty": "beginner",
+    "notes": "Lie face down, lift arms and legs. Strengthen posterior chain."
+  },
+  {
+    "name": "Reverse Hyperextension",
+    "primary_muscle": "hamstrings",
+    "secondary_muscles": ["glutes", "lower_back"],
+    "equipment": "bodyweight",
+    "movement_pattern": "hinge",
+    "difficulty": "intermediate",
+    "notes": "Lying face down, lift legs. Hamstring and glute strengthener."
+  },
+  {
+    "name": "Calf Raise on Step",
+    "primary_muscle": "calves",
+    "secondary_muscles": [],
+    "equipment": "bodyweight",
+    "movement_pattern": "isolation",
+    "difficulty": "beginner",
+    "notes": "Heels hanging off step, greater range of motion. Stretch at bottom."
+  },
+  {
+    "name": "Single Leg Calf Raise on Step",
+    "primary_muscle": "calves",
+    "secondary_muscles": [],
+    "equipment": "bodyweight",
+    "movement_pattern": "isolation",
+    "difficulty": "intermediate",
+    "notes": "One leg, heels off step. Unilateral calf work with full ROM."
+  }
+]
